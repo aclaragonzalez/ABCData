@@ -5,5 +5,5 @@ O projeto consiste em uma extração de propriedades químicas de compostos a pa
 ## Etapas do projeto
 Este projeto será dividido em três etapas:
 * Extração dos dados utilizando a biblioteca [cclib](https://cclib.github.io/) diretamente no terminal:
-* [Limpeza e organização dos dados obtidos a partir do Gaussian](https://github.com/aclaragonzalez/ABCData/blob/main/json_gaussian.ipynb)
-* [Limpeza e organização dos dados obtidos a partir do Orca](https://github.com/aclaragonzalez/ABCData/blob/main/organizando_json_from_orca.ipynb)
+* [Limpeza e organização dos dados obtidos a partir do Gaussian](https://github.com/aclaragonzalez/ABCData/blob/main/json_from_gaussian.ipynb)
+* [Limpeza e organização dos dados obtidos a partir do Orca](https://github.com/aclaragonzalez/ABCData/blob/main/json_from_orca.ipynb)
